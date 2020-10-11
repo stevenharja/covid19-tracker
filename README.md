@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The COVID - 19 tracker is utilising [Disease.SH](https://disease.sh/docs/#/)
 
 ## Available Scripts
 
