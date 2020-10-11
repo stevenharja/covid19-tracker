@@ -1,0 +1,28 @@
+.Stats {
+  text-transform: uppercase;
+  border: #5b86e5 1px solid;
+  display: grid;
+  grid-template-rows: min-content 1fr;
+  align-items: center;
+  box-shadow: 0 0.5rem 1rem rgba(51, 51, 51, 0.3);
+}
+
+@media only screen and (max-width: 75em) {
+  .CountUp {
+    padding: 1.5rem;
+  }
+}
+
+.CountUp {
+  font-size: 2.5rem;
+  color: #5b86e5;
+  display: block;
+}
+
+.Title {
+  font-size: 1.5rem;
+  font-weight: 300;
+  background-color: #5b86e5;
+  padding: 1rem;
+  color: #fff;
+}
