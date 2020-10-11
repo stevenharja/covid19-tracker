@@ -15,7 +15,14 @@
 .Container {
   margin: 5rem;
   padding: 3rem;
-  background-color: #fff;
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(255, 255, 255, 0.75),
+      rgba(255, 255, 255, 0.75)
+    ),
+    url("./assets/img/backimg.jpg");
+  background-position: center;
+  background-size: cover;
   box-shadow: 1rem 0 3rem rgba(51, 51, 51, 0.3);
   border-radius: 3px;
   text-align: center;

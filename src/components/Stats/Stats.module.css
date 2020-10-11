@@ -1,6 +1,7 @@
 .Stats {
   text-transform: uppercase;
   border: #5b86e5 1px solid;
+  background-color: #fff;
   display: grid;
   grid-template-rows: min-content 1fr;
   align-items: center;
