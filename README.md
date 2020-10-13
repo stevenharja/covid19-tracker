@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The COVID - 19 tracker is utilising [Disease.SH](https://disease.sh/docs/#/)
+The link for the page can be accessed [here] (https://stevenharja.github.io/covid19-tracker/)
 
 ## Available Scripts
 
